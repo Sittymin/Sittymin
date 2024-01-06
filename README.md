@@ -1,5 +1,6 @@
-##为什么折腾小众技术？  
+## 为什么折腾小众技术？  
 
+![img](https://thiscute.world/posts/why-i-choose-niche-products/useless-work.jpg)  
 因为好玩  
 Linus 最开始写 Linux，也只是为了好玩（Just For Fun）.  
 
